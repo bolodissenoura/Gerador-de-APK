@@ -2,7 +2,7 @@
   <web-view
     class="cont"
     :source="{
-      uri: 'https://crossdocking.homologacao.boostech.com.br/mobile/',
+      uri: 'AQUI VAI SUA URL',
     }"
   />
 </template>
